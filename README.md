@@ -2,7 +2,7 @@
 This is an utility for installing Minecraft servers with the Fabric Loader
 
 ## Dependencies
- - gum - Some UI library
+ - gum - UI tool for bash scripts
  - java - To launch the server
  - jq - Some JSON library
 
